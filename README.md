@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
