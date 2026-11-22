@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
