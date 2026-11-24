@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Bhupendra-04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
